@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="card_background_color_black">@color/alert_dialog_background_color_black</color>
+
+
+    <color name="alert_dialog_background_color_black">@android:color/black</color>
+
+    <color name="empty_recyclerview_text_color">#4dffffff</color> <!--30% white-->
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="proceed_disable">#DEDEDE</color>
+    <color name="proceed_enable">#72D63A</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+</resources>
